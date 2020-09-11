@@ -1,2 +1,2 @@
 # Night Club Manager App
-A desktop application for managing a night club
+A desktop Java application for managing a night club
